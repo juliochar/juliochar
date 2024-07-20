@@ -1,5 +1,5 @@
 - 👋 Olá, sou um simples dev com o nickname julioChar.
-- 🌱 Estou apredendo muito NodeJS, Flutter e Java
+- 🌱 Estou apredendo muito NodeJS e Java
 
 
 
